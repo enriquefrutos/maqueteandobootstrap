@@ -1,0 +1,27 @@
+section{
+padding: 50px;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: beige;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+footer div img{
+    width: 30px;
+    opacity: 0.5;
+
+}
+footer{
+    background-color: lightpink;
+}
+section{
+    background-color: lightgrey;
+}
+H2{
+    background-color: lightgrey;
+    padding: 0;
+    margin: 0;
+}
